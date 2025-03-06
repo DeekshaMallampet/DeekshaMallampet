@@ -1,21 +1,15 @@
 # Hi there! 👋 I'm Deeksha Mallampet  
 
 🎓 **Master's Student | Data Science @ UMass Dartmouth**  
-💻 **Passionate about AI, Machine Learning, and Databases**  
-📍 **Currently working on Visual Question Answering (VQA) and LLM-VLM Integration**  
+💻 **Passionate about AI, Machine Learning, Data Visualization, and Databases**  
+📚 **Currently Learning:** LLMs, VLMs, Multi-Modal AI, and Advanced NLP Techniques  
 
 ---
 
 ## 🔥 About Me
-I have a strong background in **Electronics and Communication Engineering**, and I'm currently in the final semester of my **Master’s in Data Science** at UMass Dartmouth. My expertise spans across **Machine Learning, Deep Learning, NLP, Databases, and High-Performance Computing**. I'm always eager to explore cutting-edge AI applications and data-driven solutions.
+I'm currently in the final semester of my **Master’s in Data Science** at UMass Dartmouth, where I've been deeply engaged in **Machine Learning, Deep Learning, NLP, Databases, High-Performance Computing, and Data Visualization**. My focus lies in leveraging AI-driven solutions to solve complex real-world problems. I am particularly interested in **Vision-Language Models (VLMs), Large Language Models (LLMs), and AI for data-driven decision-making.**  
 
----
-
-## 💡 What I'm Working On
-- 🖼 **Visual Question Answering (VQA)** – Implementing a model from scratch to answer image-based questions.
-- 🤖 **Large Language Models (LLM) + Vision-Language Models (VLM) Integration** – Exploring multi-modal AI applications.
-- 🗃 **Query Performance Analysis** – Evaluating large CSV dataset queries using **DuckDB & SQLite**.
-- 📜 **BERT-Based Sustainability in Software Requirements Engineering** – Researching green software classification using NLP.
+Throughout my academic journey, I've worked on projects involving **Query Performance Benchmarking and UML-Based System Design**. I thrive on exploring cutting-edge AI applications and pushing the boundaries of what's possible with data.
 
 ---
 
@@ -23,6 +17,7 @@ I have a strong background in **Electronics and Communication Engineering**, and
 
 ### **Programming & Scripting:**
 - Python (Pandas, NumPy, TensorFlow, PyTorch, OpenCV)
+- R Programming
 - C Programming, SQL, Shell Scripting
 
 ### **Data & Databases:**
@@ -35,6 +30,11 @@ I have a strong background in **Electronics and Communication Engineering**, and
 - NLP (BERT, GPT, RoBERTa, T5)
 - Vision-Language Models (CLIP, BLIP, ViTs)
 
+### **Data Visualization & Business Intelligence:**
+- Power BI, Tableau, Matplotlib, Seaborn
+- Dashboard Creation & Interactive Reporting
+- Data Storytelling & Insights
+
 ### **Tools & Platforms:**
 - JupyterLab, Git/GitHub, Docker
 - AWS, Google Colab
@@ -43,14 +43,11 @@ I have a strong background in **Electronics and Communication Engineering**, and
 ---
 
 ## 🚀 Projects & Contributions
-### **🔍 Visual Question Answering (VQA)**  
-Developing a deep learning model that answers questions based on images. Leveraging **Vision-Transformer (ViT) models** and **Transformer-based NLP** to generate accurate responses.
+### **📊 Query Performance Analysis on Large CSV Datasets**  
+Analyzing query execution performance on large datasets using **DuckDB and SQLite**. Benchmarking performance metrics, optimizing queries, and documenting findings with detailed graphs and insights.
 
-### **📊 Query Performance Analysis**  
-Benchmarking **DuckDB vs SQLite** for handling large CSV datasets, focusing on query execution time, optimization, and indexing strategies.
-
-### **📝 BERT-Based Green Software Engineering**  
-Applying **BERT for classifying non-functional software requirements** into sustainability dimensions. Enhancing the **PROMISE_exp dataset** for green IT classification.
+### **📌 UML Design for Car Dealership Inventory System**  
+Developed **UML diagrams and system design** for a car dealership's inventory system, implementing **creational design patterns** for a scalable and maintainable architecture.
 
 ---
 
