@@ -53,8 +53,8 @@ Developed **UML diagrams and system design** for a car dealership's inventory sy
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/deeksha-mallampet-6aa5b72b2/)  
-- 🌐 [Portfolio](#)  
-- 📧 [Email](deeskshagoud21@gmail.com)  
+- 🌐 [GitHub](https://github.com/DeekshaMallampet)  
+- 📧 [Email](deekshagoud21@gmail.com)  
 - 🏗 **Always open to collaboration and research discussions!**  
 
 ---
